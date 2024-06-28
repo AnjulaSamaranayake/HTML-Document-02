@@ -1,0 +1,44 @@
+.bgColor {
+    background-color: rgb(101, 153, 136);
+    padding: 20px;
+    border: 5px solid rgb(41, 67, 58);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.bgImage {
+    background-image: url(1490188710731.jpeg);
+    height: 840px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+    border: 5px solid black;
+    border-radius: 50px; 
+}
+
+.bgRepeat {
+    background-image: url(9922_53.jpg);
+    color: rgb(36, 42, 42);
+    background-size: auto;
+    height: 1000px;
+    background-repeat: space;
+    text-align: center;
+    margin: 50px;
+    border: 1px rgb(255, 255, 255) solid;
+    border-radius: 100px;
+    padding-top: 890px;
+}
+
+.bgAttach {
+    background-image: url(company-s-apple-logo-with-golden-mechanical-mechanism-inside-it-with-black-nonreflective_783182-518.avif);
+    height: 750px;
+    background-attachment: fixed;
+    background-repeat: space;
+    text-align: center;
+    color: rgb(248, 220, 187);
+    border: 5px solid rgb(6, 4, 4);
+    border-radius: 25px
+}
